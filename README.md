@@ -1,4 +1,4 @@
-# <img src="/docs/images/opentranscription_logo.png" width=60">OpenTranscription
+# <img src="/docs/images/opentranscription_logo.png" width=60> OpenTranscription
 
 A friendly speech-to-text transcriber built for everyone. OpenTranscription uses an open source speech-to-text engine to process any audio file to text, with no fees and minimal technical expertise required.
 
